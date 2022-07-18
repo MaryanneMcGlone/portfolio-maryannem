@@ -1,9 +1,12 @@
 import React from "react";
+import logo from "./logoGit.png";
 
 export default function Home() {
   <div className="Homepage">
     <div className="container-fluid">
-      <div className="hero"></div>
+      <div className="hero">
+        <img src={logo} className="App-logo img-fluid" alt="logo" />
+      </div>
     </div>
   </div>;
 }

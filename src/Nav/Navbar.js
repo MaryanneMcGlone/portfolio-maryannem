@@ -1,7 +1,6 @@
 import React from "react";
 import "./Nav.css";
 import "./burger.css";
-import logo from "./logoGit.png";
 
 export default function Navbar() {
   return (
@@ -9,7 +8,6 @@ export default function Navbar() {
       <div className="container-fluid">
         <header className="App-header">
           <a className="navbar-brand" href="/" title="Homepage">
-            <img src={logo} className="App-logo img-fluid" alt="logo" />
             Maryanne M - Front-end Developer
           </a>
         </header>
