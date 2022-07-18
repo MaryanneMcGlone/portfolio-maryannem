@@ -7,12 +7,9 @@ export default function Navbar() {
   return (
     <nav className="navbar navbar-expand-lg navbar-light bg-light fixed-top">
       <div className="container-fluid">
-        <header className="App-header">
-          <a className="navbar-brand" href="/" title="Homepage">
-            <img src={logo} className="App-logo img-fluid" alt="logo" />
-            Maryanne M - Front-end Developer
-          </a>
-        </header>
+        <a className="navbar-brand" href="/" title="Homepage">
+          Maryanne M - Front-end Developer
+        </a>
         <button
           className="navbar-toggler"
           type="button"
