@@ -1,9 +1,11 @@
 import React from "react";
+import "./Header.js";
 
 export default function Home() {
   <div className="Homepage">
     <div className="container-fluid">
-      <div className="hero"></div>
+      <Header />
+      <div className="hero">Homepage</div>
     </div>
   </div>;
 }
