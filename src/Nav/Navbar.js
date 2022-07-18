@@ -33,7 +33,7 @@ export default function Navbar() {
               </a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="src/about.js" title="About Ann">
+              <a className="nav-link" href="src/About.js" title="About Ann">
                 About Me
               </a>
             </li>
@@ -43,7 +43,7 @@ export default function Navbar() {
               </a>
             </li>
             <li>
-              <a className="nav-link" href="src/contact.js" title="Contact Ann">
+              <a className="nav-link" href="src/Contact.js" title="Contact Ann">
                 Contact Me
               </a>
             </li>
