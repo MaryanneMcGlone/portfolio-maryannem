@@ -1,5 +1,7 @@
 import logo from "./logoGit.png";
 import "./App.css";
+import Navbar from "./Nav/Navbar.js";
+import Home from "./Home";
 
 function App() {
   return (
@@ -7,6 +9,8 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo img-fluid" alt="logo" />
       </header>
+      <Navbar />
+      <Home />
       <footer>
         This portfolio was coded by{" "}
         <a
@@ -14,7 +18,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Maryanne McGlone
+          Maryanne M
         </a>
       </footer>
     </div>
