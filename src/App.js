@@ -1,3 +1,4 @@
+import logo from "./logoGit.png";
 import "./App.css";
 import Navbar from "./Nav/Navbar.js";
 import Home from "./Home";
