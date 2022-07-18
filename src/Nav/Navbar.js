@@ -1,7 +1,6 @@
 import React from "react";
 import "./Nav.css";
 import "./burger.css";
-import logo from "./logoGit.png";
 
 export default function Navbar() {
   return (
