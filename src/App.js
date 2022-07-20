@@ -1,5 +1,5 @@
 import "./App.css";
-import Navbar from "./Nav/Navbar.js";
+import Navbar from "./Navbar.js";
 import Home from "./Home";
 
 function App() {
@@ -10,7 +10,7 @@ function App() {
       <footer>
         This portfolio was coded by{" "}
         <a
-          href="https://github.com/inksp0ts09/ReactWeatherProject"
+          href="https://github.com/inksp0ts09/"
           target="_blank"
           rel="noopener noreferrer"
         >

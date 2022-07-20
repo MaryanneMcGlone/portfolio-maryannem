@@ -39,12 +39,12 @@ export default function Navbar() {
                 About Me
               </a>
             </li>
-            <li>
+            <li className="nav-item">
               <a className="nav-link" href="src/myWork.js" title="Ann's Work">
                 My Work
               </a>
             </li>
-            <li>
+            <li className="nav-item">
               <a className="nav-link" href="src/Contact.js" title="Contact Ann">
                 Contact Me
               </a>
