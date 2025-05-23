@@ -9,7 +9,7 @@ function App() {
         <footer>
           This portfolio was coded by{" "}
           <a
-            href="https://github.com/inksp0ts09/"
+            href="https://github.com/MaryanneMcGlone"
             target="_blank"
             rel="noopener noreferrer"
           >

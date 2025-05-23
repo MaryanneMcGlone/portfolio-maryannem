@@ -118,7 +118,7 @@ export default function About() {
               <i class="fa-brands fa-linkedin"></i>
             </a>
             <a
-              href="https://github.com/inksp0ts09"
+              href="https://github.com/MaryanneMcGlone"
               target="_blank"
               title="GitHub profile"
             >
@@ -128,7 +128,7 @@ export default function About() {
           <p className="text-center mt-4">
             This project was coded by Maryanne, and it is{" "}
             <a
-              href="https://github.com/inksp0ts09/portfolio-maryannem"
+              href="https://github.com/MaryanneMcGlone/portfolio-maryannem"
               target="_blank"
             >
               open-sourced
